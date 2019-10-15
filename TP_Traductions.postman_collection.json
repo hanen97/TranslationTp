@@ -350,7 +350,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/applications/2/translations/6/entries/7",
+							"raw": "http://localhost:8080/applications/2/translations/6/entries/7",
 							"protocol": "http",
 							"host": [
 								"localhost"
